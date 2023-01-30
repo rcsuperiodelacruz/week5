@@ -6,6 +6,17 @@
     background-color: beige;
 }   
 
-#pinkheading{
+#londonheading{
     background-color: pink;
+}
+
+#lorem{
+    padding:0px 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
+
+#filler{
+    border: 10px ridge lightgreen;
+    margin: 5px;
 }
